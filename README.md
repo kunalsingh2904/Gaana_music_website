@@ -1,12 +1,12 @@
 # Requirement:
 	1. python 3.6
 	2. django 1.9.4
-	(already installed in "venv", so direct follow starting step.)
+	
 
 
 # START:
-	1. source venv/bin/activate
-	## go inside music using "cd music/"
+	1. source venv/bin/activate(optional)
+	2. go inside music using "cd music/"
 	2. python3 manage.py makemigrations
 	3. python3 manage.py runserver
 
