@@ -7,8 +7,8 @@
 # START:
 	1. source venv/bin/activate(optional)
 	2. go inside music using "cd music/"
-	2. python3 manage.py makemigrations
-	3. python3 manage.py runserver
+	3. python3 manage.py makemigrations
+	4. python3 manage.py runserver
 
 
 # What is GAANA?
