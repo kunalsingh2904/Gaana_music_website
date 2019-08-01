@@ -5,10 +5,12 @@
 
 
 # START:
-	1. source venv/bin/activate(optional)
-	2. go inside music using "cd music/"
-	3. python3 manage.py makemigrations
-	4. python3 manage.py runserver
+	1. create virtual-environment and install django
+	2. activate virtual environment
+	3. go inside music using "cd music/"
+	4. python3 manage.py makemigrations
+	4. python3 manage.py migrate
+	5. python3 manage.py runserver
 
 
 # What is GAANA?
