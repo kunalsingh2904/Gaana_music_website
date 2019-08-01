@@ -7,6 +7,10 @@
 # START:
 	1. create virtual-environment and install django
 	2. activate virtual environment
+	OR
+	1. use venv
+	2. source venv/bin/activate
+	
 	3. go inside music using "cd music/"
 	4. python3 manage.py makemigrations
 	4. python3 manage.py migrate
